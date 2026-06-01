@@ -1,5 +1,5 @@
 # 🔬 Leadership & Research
-- **Head of Research Department**
+- ** Head of the Department of Scientific Affairs and Research**
   Student Scientific Community
   Odlar Yurdu University
 
