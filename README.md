@@ -32,3 +32,13 @@
 - Adobe Photoshop · DragonBones
 - Python 
 - HTML & CSS & JS
+## 🏅 Honors & Awards
+- 🥈 **2nd Place** — "Best Article" Competition
+  Information Technologies · Odlar Yurdu University · 2024
+
+- 🥈 **2nd Place** — University Essay Competition
+  Odlar Yurdu University
+
+- 🏅 **Honorary Decree** — Outstanding Activity in University
+  Social, Cultural & Academic Life
+  Signed by Rector prof. Ə.A.Vəliyev · Odlar Yurdu University · 2026
