@@ -22,7 +22,7 @@
   7 custom agents · Built in 48 hours at FireLand Hackathon
 
 ## 🏆 Achievements
-- 2× Hackathon Participant (48h each)
+- 2× Hackathon Participant (30h each)
 - Xsolla & IGDA Azerbaijan Certified
   18 workshops in Game Design, Development & Art
 
