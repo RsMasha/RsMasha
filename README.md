@@ -16,10 +16,10 @@
 
 ## 🎮 Projects
 - **Apollo** — 2D Sci-Fi Metroidvania · Unreal Engine 5
-  Built in 48 hours at GameDev Hackathon
+  Built in 30 hours at GameDev Hackathon
   
 - **Aivora** — AI Analytics Platform · C# · Azure
-  7 custom agents · Built in 48 hours at FireLand Hackathon
+  7 custom agents · Built in 30 hours at FireLand Hackathon
 
 ## 🏆 Achievements
 - 2× Hackathon Participant (30h each)
