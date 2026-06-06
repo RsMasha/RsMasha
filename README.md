@@ -28,6 +28,7 @@
 
 ## 🛠 Tech Stack
 - Unreal Engine 5 · Blueprints
+- C++
 - C# .NET · Microsoft Azure
 - Adobe Photoshop · DragonBones
 - Python 
